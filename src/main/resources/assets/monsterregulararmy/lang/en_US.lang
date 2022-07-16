@@ -1,0 +1,14 @@
+#English
+item.letter_proclamation.name=War Declaration Paper
+item.letter_peace.name=Peace Letter
+tile.base_block.name=Base Block
+tile.monster_scaffold.name=Monster Scaffold
+entity.EntitySkeletonMRA.name=Skeleton(MRA)
+entity.EntitySniperSkeletonMRA.name=SniperSkeleton(MRA)
+entity.EntityEngineerMRA.name=ZombieEngineer(MRA)
+entity.EntityFastZombieMRA.name=Zombie(MRA)
+entity.EntityCreeperMRA.name=Creeper(MRA)
+entity.EntityZombieSpearerMRA.name=SpearerZombie(MRA)
+entity.EntityZombieLongSpearerMRA.name=LongSpearerZombie(MRA)
+entity.EntityCatapultMRA.name=Catapult(MRA)
+entity.EntityCannonMRA.name=Cannon(MRA)

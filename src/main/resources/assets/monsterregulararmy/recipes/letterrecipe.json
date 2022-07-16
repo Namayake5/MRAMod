@@ -1,0 +1,15 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:paper"
+      },
+      {
+        "item": "minecraft:iron_sword"
+      
+      }
+    ],
+    "result": {
+      "item": "monsterregulararmy:letter_proclamation"
+    }
+  }

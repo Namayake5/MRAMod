@@ -1,0 +1,4 @@
+{
+    "parent":"block/cube_all",
+    "textures":{"all":"monsterregulararmy:blocks/base_active"}
+}

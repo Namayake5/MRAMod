@@ -1,0 +1,13 @@
+﻿#Japanese
+item.LetterOfProclamation.name=宣戦布告の手紙
+tile.BaseBlock.name=拠点ブロック
+tile.MonsterBlock.name=モンスターブロック
+entity.EntitySkeletonMRA.name=スケルトン(MRA)
+entity.EntitySniperSkeletonMRA.name=スナイパースケルトン(MRA)
+entity.EntityEngineerMRA.name=ゾンビ工兵(MRA)
+entity.EntityFastZombieMRA.name=ゾンビ(MRA)
+entity.EntityCreeperMRA.name=クリーパー(MRA)
+entity.EntityZombieSpearerMRA.name=槍兵ゾンビ(MRA)
+entity.EntityZombieLongSpearerMRA.name=長槍兵ゾンビ(MRA)
+entity.EntityCatapultMRA.name=カタパルト(MRA)
+entity.EntityCannonMRA.name=大砲(MRA)
